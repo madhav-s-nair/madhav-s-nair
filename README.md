@@ -57,10 +57,6 @@ $ ssh root@madhav.ai
 </p>
 <h3 align="center">📊 GITHUB_DIAGNOSTICS // MADHAV-S-NAIR</h3>
 <p align="center">
-<!-- Overall Stats Customized to Hacker Green/Black -->
-<img src="https://github-readme-stats.vercel.app/api?username=madhav-s-nair&include_all_commits=true&show_icons=true&count_private=true&bg_color=000000&title_color=22C55E&text_color=9CA3AF&icon_color=22C55E&border_color=22C55E&hide_border=false" alt="Madhav's GitHub Stats" />
-</p>
-<p align="center">
 <!-- Streak Stats Customized -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-s-nair&background=000000&border=22C55E&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakNum=22C55E&sideNums=22C55E&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&hide_border=false" alt="Madhav's GitHub Streak" />
 </p>

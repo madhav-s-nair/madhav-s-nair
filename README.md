@@ -65,12 +65,5 @@ $ ssh root@madhav.ai
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-s-nair&background=000000&border=22C55E&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakNum=22C55E&sideNums=22C55E&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&hide_border=false" alt="Madhav's GitHub Streak" />
 </p>
 <p align="center">
-<!-- Top Languages Customized -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-s-nair&layout=compact&count_private=true&langs_count=6&bg_color=000000&title_color=22C55E&text_color=9CA3AF&icon_color=22C55E&border_color=22C55E&hide_border=false" alt="Madhav's Top Languages" />
-</p>
-<p align="center">
 <code>[ SYSTEM.END_OF_LINE ]</code>
-
-
-<img src="https://profile-counter.glitch.me/madhav-s-nair/count.svg" alt="Profile views" />
 </p>

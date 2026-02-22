@@ -2,9 +2,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=800&height=80&lines=~%2FMADHAV.AI;Executing+process%3A+Solving+Impossible;Architecting+AI+automation+frameworks;Turning+years+of+effort+into+minutes" alt="Typing SVG" />
 </p>
+
 <p align="center">
 <code>STATUS: PATENT PENDING</code> | <code>ROLE: AUTOMATION ARCHITECT @ ORACLE</code>
 </p>
+
 <p align="center">
 <a href="https://madhavsuresh.work/">
 <img src="https://img.shields.io/badge/PORTFOLIO-madhavsuresh.work-000000?style=for-the-badge&logo=googlechrome&logoColor=22C55E&color=000000&labelColor=22C55E" alt="Portfolio" />
@@ -16,14 +18,20 @@
 <img src="https://img.shields.io/badge/COMM_LINK-Secure_Email-000000?style=for-the-badge&logo=gmail&logoColor=22C55E&color=000000&labelColor=22C55E" alt="Email" />
 </a>
 </p>
-$ ssh root@madhav.ai
-> Authenticating... [OK]
-> Accessing mainframe... [OK]
-> const specialization = "Enterprise Automation & AI/ML Solutions";
-> Loading modules: Python, NLP, GenAI, Cloud Systems...
-> SYSTEM: READY.
+
+<p align="center">
+<pre style="background:#000000; color:#22C55E; font-family:'JetBrains Mono',monospace; display:inline-block; text-align:left; padding:16px 32px; border:1px solid #22C55E; border-radius:6px;">
+madhav@neural-link:~$ ssh root@madhav.ai
+&gt; Authenticating...              [OK]
+&gt; Accessing mainframe...         [OK]
+&gt; const specialization = "Enterprise Automation &amp; AI/ML Solutions";
+&gt; Loading modules: Python, NLP, GenAI, Cloud Systems...
+&gt; SYSTEM: READY. █
+</pre>
+</p>
 
 <h3 align="center">⚙️ SYSTEM_TELEMETRY // IMPACT</h3>
+
 <p align="center">
 <table>
 <tr>
@@ -46,7 +54,9 @@ $ ssh root@madhav.ai
 </tr>
 </table>
 </p>
+
 <h3 align="center">⚡ EXECUTION_STACK // MODULES</h3>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=22C55E&color=000000&labelColor=111111" alt="Python" />
 <img src="https://img.shields.io/badge/GenAI_%26_LLMs-000000?style=flat-square&logo=googlegemini&logoColor=22C55E&color=000000&labelColor=111111" alt="GenAI" />
@@ -55,11 +65,14 @@ $ ssh root@madhav.ai
 <img src="https://img.shields.io/badge/SQL_Data_Ops-000000?style=flat-square&logo=mysql&logoColor=22C55E&color=000000&labelColor=111111" alt="SQL" />
 <img src="https://img.shields.io/badge/System_Architecture-000000?style=flat-square&logo=awslambda&logoColor=22C55E&color=000000&labelColor=111111" alt="Architecture" />
 </p>
+
 <h3 align="center">📊 GITHUB_DIAGNOSTICS // MADHAV-S-NAIR</h3>
+
 <p align="center">
 <!-- Streak Stats Customized -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-s-nair&background=000000&border=22C55E&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakNum=22C55E&sideNums=22C55E&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&hide_border=false" alt="Madhav's GitHub Streak" />
 </p>
+
 <p align="center">
 <code>[ SYSTEM.END_OF_LINE ]</code>
 </p>

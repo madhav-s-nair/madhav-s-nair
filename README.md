@@ -33,7 +33,7 @@ madhav@neural-link:~$ ssh root@madhav.ai
 <h3 align="center">⚙️ SYSTEM_TELEMETRY // IMPACT</h3>
 
 <p align="center">
-<table>
+<table align="center">
 <tr>
 <td align="center" width="200">
 <h2 style="color: #22c55e; margin-bottom: 0;">99%</h2>

@@ -63,7 +63,8 @@ madhav@neural-link:~$ ssh root@madhav.ai
 <img src="https://img.shields.io/badge/NLP-000000?style=flat-square&logo=gitbook&logoColor=22C55E&color=000000&labelColor=111111" alt="NLP" />
 <img src="https://img.shields.io/badge/Oracle_Analytics-000000?style=flat-square&logo=databricks&logoColor=22C55E&color=000000&labelColor=111111" alt="Oracle" />
 <img src="https://img.shields.io/badge/SQL_Data_Ops-000000?style=flat-square&logo=mysql&logoColor=22C55E&color=000000&labelColor=111111" alt="SQL" />
-<img src="https://img.shields.io/badge/System_Architecture-000000?style=flat-square&logo=awslambda&logoColor=22C55E&color=000000&labelColor=111111" alt="Architecture" />
+<img src="https://img.shields.io/badge/System_Architecture-000000?style=flat-square&logo=docker&logoColor=22C55E&color=000000&labelColor=111111" alt="Docker" />
+<img src="https://img.shields.io/badge/System_Architecture-000000?style=flat-square&logo=kubernetes&logoColor=22C55E&color=000000&labelColor=111111" alt="Kubernetes" />
 </p>
 
 <h3 align="center">📊 GITHUB_DIAGNOSTICS // MADHAV-S-NAIR</h3>

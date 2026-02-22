@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="160" viewBox="0 0 620 160">
+  <rect width="620" height="160" rx="8" ry="8" fill="#000000" stroke="#22C55E" stroke-width="1.5"/>
+  <text font-family="JetBrains Mono, monospace" font-size="13" fill="#22C55E">
+    <tspan x="24" y="36">madhav@neural-link:~$ ssh root@madhav.ai</tspan>
+    <tspan x="24" dy="22">&gt; Authenticating...              [OK]</tspan>
+    <tspan x="24" dy="22">&gt; Accessing mainframe...         [OK]</tspan>
+    <tspan x="24" dy="22">&gt; const specialization = "Enterprise Automation &amp; AI/ML Solutions";</tspan>
+    <tspan x="24" dy="22">&gt; Loading modules: Python, NLP, GenAI, Cloud Systems...</tspan>
+    <tspan x="24" dy="22">&gt; SYSTEM: READY. <tspan><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>&#x2588;</tspan></tspan>
+  </text>
+</svg>

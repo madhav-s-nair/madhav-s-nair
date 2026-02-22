@@ -49,13 +49,13 @@ $ ssh root@madhav.ai
 <h3 align="center">⚡ EXECUTION_STACK // MODULES</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=22C55E&color=000000&labelColor=111111" alt="Python" />
-<img src="https://img.shields.io/badge/GenAI_%26_LLMs-000000?style=flat-square&logo=openai&logoColor=22C55E&color=000000&labelColor=111111" alt="GenAI" />
+<img src="https://img.shields.io/badge/GenAI_%26_LLMs-000000?style=flat-square&logo=googlegemini&logoColor=22C55E&color=000000&labelColor=111111" alt="GenAI" />
 <img src="https://img.shields.io/badge/NLP-000000?style=flat-square&logo=gitbook&logoColor=22C55E&color=000000&labelColor=111111" alt="NLP" />
-<img src="https://img.shields.io/badge/Oracle_Analytics-000000?style=flat-square&logo=oracle&logoColor=22C55E&color=000000&labelColor=111111" alt="Oracle" />
+<img src="https://img.shields.io/badge/Oracle_Analytics-000000?style=flat-square&logo=databricks&logoColor=22C55E&color=000000&labelColor=111111" alt="Oracle" />
 <img src="https://img.shields.io/badge/SQL_Data_Ops-000000?style=flat-square&logo=mysql&logoColor=22C55E&color=000000&labelColor=111111" alt="SQL" />
-<img src="https://img.shields.io/badge/System_Architecture-000000?style=flat-square&logo=amazonaws&logoColor=22C55E&color=000000&labelColor=111111" alt="Architecture" />
+<img src="https://img.shields.io/badge/System_Architecture-000000?style=flat-square&logo=amazonwebservices&logoColor=22C55E&color=000000&labelColor=111111" alt="Architecture" />
 </p>
-<h3 align="center">📊 GITHUB_DIAGNOSTICS // MADHAV-S</h3>
+<h3 align="center">📊 GITHUB_DIAGNOSTICS // MADHAV-S-NAIR</h3>
 <p align="center">
 <!-- Streak Stats Customized -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-s-nair&background=000000&border=22C55E&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakNum=22C55E&sideNums=22C55E&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&hide_border=false" alt="Madhav's GitHub Streak" />

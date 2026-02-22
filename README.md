@@ -20,14 +20,7 @@
 </p>
 
 <p align="center">
-<pre style="background:#000000; color:#22C55E; font-family:'JetBrains Mono',monospace; display:inline-block; text-align:left; padding:16px 32px; border:1px solid #22C55E; border-radius:6px;">
-madhav@neural-link:~$ ssh root@madhav.ai
-&gt; Authenticating...              [OK]
-&gt; Accessing mainframe...         [OK]
-&gt; const specialization = "Enterprise Automation &amp; AI/ML Solutions";
-&gt; Loading modules: Python, NLP, GenAI, Cloud Systems...
-&gt; SYSTEM: READY. █
-</pre>
+<img src="assets/terminal.svg" alt="Terminal" />
 </p>
 
 <h3 align="center">⚙️ SYSTEM_TELEMETRY // IMPACT</h3>

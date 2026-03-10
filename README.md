@@ -1,6 +1,6 @@
 <!-- SYSTEM INITIALIZATION SEQUENCE -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=800&height=80&lines=~%2FMADHAV.AI;Executing+process%3A+Solving+Impossible;Architecting+AI+automation+frameworks;Turning+years+of+effort+into+minutes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=800&height=80&lines=~%2FMADHAV.S;Executing+process%3A+Solving+Impossible;Architecting+AI+automation+frameworks;Turning+years+of+effort+into+minutes" alt="Typing SVG" />
 </p>
 <p align="center">
 <code>STATUS: PATENT PENDING</code> | <code>ROLE: AUTOMATION ARCHITECT @ ORACLE</code>
